@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mishael5
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning python, Bootstrap,JavaScript,css and Html
+- 🌱 I’m proficient in python, Bootstrap,JavaScript,css and Html
 - 💞️ I’m looking to collaborate on an investment app development
 - 📫 How to reach me ...
 Ikechimisheal@gmail.com
